@@ -1,0 +1,10 @@
+/home/ezio/Documents/ALPR/data/plate/images/047.jpg
+/home/ezio/Documents/ALPR/data/plate/images/094.jpg
+/home/ezio/Documents/ALPR/data/plate/images/086.jpg
+/home/ezio/Documents/ALPR/data/plate/images/059.jpg
+/home/ezio/Documents/ALPR/data/plate/images/073.jpg
+/home/ezio/Documents/ALPR/data/plate/images/066.jpg
+/home/ezio/Documents/ALPR/data/plate/images/071.jpg
+/home/ezio/Documents/ALPR/data/plate/images/031.jpg
+/home/ezio/Documents/ALPR/data/plate/images/0100.jpg
+/home/ezio/Documents/ALPR/data/plate/images/077.jpg
